@@ -22,8 +22,8 @@ Exemplo de resultado para C31,7 -> todos os 2 milhoes de jogos do dia da sorte
 
 
 
-
-
+OBS: Use o software Pilotedit para abrir arquivos de textos grandes.Se abrir com editor de texto comum trava.
+http://www.pilotedit.com/index.html
 
 <h1>O algoritmo</h1>
 
