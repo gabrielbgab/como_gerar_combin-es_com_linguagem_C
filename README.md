@@ -1,4 +1,4 @@
-# como_gerar_combin-es_com_linguagem_C
+# como_gerar_combinações_com_linguagem_C
 como gerar combinações com linguagem C-algoritmo mais eficiente
 <h3>COMO USAR<h3/>
 Exemplo para achar combinação C 6,2.
