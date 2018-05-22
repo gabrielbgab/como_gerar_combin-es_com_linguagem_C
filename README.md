@@ -1,5 +1,28 @@
 # como_gerar_combin-es_com_linguagem_C
 como gerar combinações com linguagem C-algoritmo mais eficiente
+<h3>COMO USAR<h3/>
+Exemplo para achar combinação C 6,2.
+
+Simples faça o download do arquivo  gerador_de_programa_para_gerar_combinação.c
+
+execute o programa em c . E digite 6 e deopois 2.  
+
+Ira ser criado um arquivo code_by_gabrielbgab.txt
+
+Mude de code_by_gabrielbgab.txt para code_by_gabrielbgab.c
+
+e execute o arquivo.
+
+o resultado saira no aulas4you.txt (apenas os numeros)
+
+Exemplo de resultado para C60,6 -> todos os 50 milhoes de jogos da mega sena
+Exemplo de resultado para C25,15 -> todos os 3 milhoes de jogos da lotofacil
+Exemplo de resultado para C31,7 -> todos os 2 milhoes de jogos do dia da sorte
+
+
+
+
+
 
 
 <h1>O algoritmo</h1>
