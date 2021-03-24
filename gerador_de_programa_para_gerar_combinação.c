@@ -1,7 +1,7 @@
 #include<stdio.h>
-/*gabrielbgab@gmail.com aulas4you-POLi-usp*/
 
-/*o algoritmo é o mais eficiente para achar combinação e é simples a ideia por traz do algoritmo que é um pouco menos simples*/
+
+/*o algoritmo Ã© o mais eficiente para achar combinaÃ§Ã£o e Ã© simples a ideia por traz do algoritmo que Ã© um pouco menos simples*/
 int main(){
 
 FILE *arquivo;
@@ -11,7 +11,7 @@ int n,p,i;
 int contador=0;
 
 arquivo=fopen("code_by_gabrielbgab.txt","w");
-printf("programa para gerarum programa em linguagem C para calcular combinação de n elemento em grupos de tamanho p\n");
+printf("programa para gerarum programa em linguagem C para calcular combinaÃ§Ã£o de n elemento em grupos de tamanho p\n");
 printf("Digite n\n");
 scanf("%d",&n);
 printf("Digite  p   p<=25 ");
